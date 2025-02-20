@@ -7,10 +7,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Huiting5.github.io",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Publications",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Purpose/motivation: Many college students of Cal State East Bay are on tight budgets.\nIn order to save moneys and get enough nutrition by daily recommendations, the linear programs set up as objective function is a minimum function for the costs of individual food items builded and each constraint is the sum of all food items nutrition value constrained by the minimum daily nutrition value.\nCollecting data from school dinning website.\nThere are 8 inequality functions with 13 variables. The 13 variables represent 13 different kid of food provided by the 2 restaurants on campus. The 8 inequality functions represent each nutrition intake daily need to satisfied.\nResults: There are 2 combinations of cheapest cost food are provided using simplex method which minimise the cost."
+  },
+  {
+    "objectID": "projects.html#wild-panda-vs-east-baylpassistant.jar",
+    "href": "projects.html#wild-panda-vs-east-baylpassistant.jar",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "Purpose/motivation: Many college students of Cal State East Bay are on tight budgets.\nIn order to save moneys and get enough nutrition by daily recommendations, the linear programs set up as objective function is a minimum function for the costs of individual food items builded and each constraint is the sum of all food items nutrition value constrained by the minimum daily nutrition value.\nCollecting data from school dinning website.\nThere are 8 inequality functions with 13 variables. The 13 variables represent 13 different kid of food provided by the 2 restaurants on campus. The 8 inequality functions represent each nutrition intake daily need to satisfied.\nResults: There are 2 combinations of cheapest cost food are provided using simplex method which minimise the cost."
   }
 ]

@@ -1,11 +1,14 @@
 ---
-title: "Huiting5.github.io"
+title: "Huiting Wu"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: jolla 
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: http://www.linkedin.com
+    - text: Github
+      href: http://www.github.com
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

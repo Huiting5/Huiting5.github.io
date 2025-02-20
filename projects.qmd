@@ -1,0 +1,15 @@
+---
+title: "Projects & Publications"
+---
+
+## Wild Panda vs East Bay(LPAssistant.jar)
+
+* Purpose/motivation: Many college students of Cal State East Bay are on tight budgets. 
+
+* In order to save moneys and get enough nutrition by daily recommendations, the linear programs set up as objective function is a minimum function for the costs of individual food items builded and each constraint is the sum of all food items nutrition value constrained by the minimum daily nutrition value. 
+
+* Collecting data from school dinning website.
+    
+* There are 8 inequality functions with 13 variables. The 13 variables represent 13 different kid of food provided by the 2 restaurants on campus. The 8 inequality functions represent each nutrition intake daily need to satisfied.
+
+* Results: There are 2 combinations of cheapest cost food are provided using simplex method which minimise the cost. 
